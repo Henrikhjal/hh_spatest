@@ -1,0 +1,8 @@
+<div id="my-spa" 
+    asp-prerender-module="ClientApp/boot-server"
+    
+    asp-prerender-data="new { 
+        isAdmin = true,
+        kakor = ViewContext.HttpContext.Request.Cookies
+    }">
+</div>

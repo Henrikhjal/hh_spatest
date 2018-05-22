@@ -1,0 +1,6 @@
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=server_side_rendering
+--content-root=C:\Users\hjalm\Source\Local\Learn\server_side_rendering
+--file=C:\Users\hjalm\Source\Local\Learn\server_side_rendering\Views\Home\index.cshtml
+--file=C:\Users\hjalm\Source\Local\Learn\server_side_rendering\Views\_ViewImports.cshtml

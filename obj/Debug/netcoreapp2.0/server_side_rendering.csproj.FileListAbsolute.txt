@@ -1,0 +1,11 @@
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\bin\Debug\netcoreapp2.0\server_side_rendering.deps.json
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\bin\Debug\netcoreapp2.0\server_side_rendering.runtimeconfig.json
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\bin\Debug\netcoreapp2.0\server_side_rendering.runtimeconfig.dev.json
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\bin\Debug\netcoreapp2.0\server_side_rendering.dll
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\bin\Debug\netcoreapp2.0\server_side_rendering.pdb
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.csprojResolveAssemblyReference.cache
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.csproj.CoreCompileInputs.cache
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.AssemblyInfoInputs.cache
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.AssemblyInfo.cs
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.dll
+C:\Users\hjalm\Source\Local\Learn\server_side_rendering\obj\Debug\netcoreapp2.0\server_side_rendering.pdb
